@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">InfoBroadcaster</string>
+    <string name="nonews_as_of_now_please_check_in_some">No news as of now \n please check in some time</string>
+</resources>
